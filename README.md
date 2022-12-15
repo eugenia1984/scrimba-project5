@@ -42,7 +42,7 @@ Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
 
 Debemos llegar a crear esta Note App con MarkDown
 
-![image](https://user-images.githubusercontent.com/72580574/207899938-45c06927-c19a-42f6-acdc-9b754499aa74.png)
+![image](https://user-images.githubusercontent.com/72580574/207905155-85436cc2-7c9b-4f2b-9cdf-ded48108334e.png)
 
 
 ---
