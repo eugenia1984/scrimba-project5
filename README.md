@@ -28,6 +28,12 @@ Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  
 }  
 ```
 
+- [react-split](https://www.npmjs.com/package/react-split)
+
+- [nanoid](https://www.npmjs.com/package/nanoid), cread **id**.
+
+- [react-mde](https://www.npmjs.com/package/react-mde)
+
 ---
 
 
