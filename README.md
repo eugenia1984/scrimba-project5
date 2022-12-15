@@ -14,6 +14,20 @@ Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  
 
 - <img src="https://img.icons8.com/office/40/null/react.png"/> **REACT**
 
+
+### Dependencias:
+
+```JavaScript
+"dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0",
+  "react-mde": "^11.5.0",
+  "react-scripts": "5.0.1",
+  "react-split": "^2.0.13",
+  "showdown": "^2.1.0"
+}  
+```
+
 ---
 
 
