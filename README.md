@@ -52,6 +52,19 @@ Debemos llegar a crear esta Note App con MarkDown
 
 
 ---
+
+## :book: Temas:
+
+- **localStorage**, **value** debe ser un **String**, si se tiene algo más complejo que un valor, por ejemplo un array de objetos hay que utilizar **JSON.stringify(value)** y se revierte con **JSON.parse(stringifiedValue)**.
+
+```JSX
+localStorage.getItem("key")
+localStorage.setItem("key", value)
+```
+
+- **lazy state initialization**
+
+---
 ---
 
 ## Getting Started with Create React App
